@@ -1,2 +1,5 @@
 View Result
 PartialView Result
+Redirect Result
+RedirectToRoute Result
+JsonResult
